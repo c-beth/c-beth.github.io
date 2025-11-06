@@ -9,7 +9,7 @@ layout: home
 
 <img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
 
-**PhD Student**<br>
+**PhD Student**<br>[Archaeoinformatics - Data Science Group](https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science)<br>
 [Department of Computer Science](https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science)<br>
 Kiel University, Germany
 
