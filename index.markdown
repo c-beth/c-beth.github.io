@@ -63,15 +63,24 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ## Teaching
 
-- Tutorial: Data Science 2021, 2022, 2023, 2024, 2025, Kiel University
-- Master's Seminar: Data Science 2020, 2021, 2025, Kiel University
-- Master's Project: Data Science and Data Mining 2020, 2021, 2023, Kiel University
-- Tutorial: Knowledge Discovery and Data Mining 2019, 2020, Kiel University
-- Tutorial: Efficient Similarity Search in Large Databases 2020, 2021, 2023, 2024, Kiel University
-- Tutorial: Information Systems 2020, 2021, Kiel University
-- Tutorial: Database Systems 2023, Kiel University
-- Tutorial: Geo-Information Systems 2021, Kiel University
-- Tutorial: Introduction to Computer Science 2022, Kiel University
+- Tutorial: Data Science, Kiel University<br>
+  2021, 2022, 2023, 2024, 2025
+- Master's Seminar: Data Science, Kiel University<br>
+  2020, 2021, 2025
+- Master's Project: Data Science and Data Mining, Kiel University<br>
+  2020, 2021, 2023
+- Tutorial: Knowledge Discovery and Data Mining, Kiel University<br>
+  2019, 2020
+- Tutorial: Efficient Similarity Search in Large Databases, Kiel University<br>
+  2020, 2021, 2023, 2024
+- Tutorial: Information Systems, Kiel University<br>
+  2020, 2021
+- Tutorial: Database Systems, Kiel University<br>
+  2023
+- Tutorial: Geo-Information Systems, Kiel University<br>
+  2021
+- Tutorial: Introduction to Computer Science, Kiel University<br>
+  2022
 
 
 
