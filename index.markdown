@@ -52,11 +52,11 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ## Research Stays
 
-- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019
+- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
   *Heterogeneous Information Network Management and Analysis*
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
   *Motif Discovery in Heterogeneous Information Networks*
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023<br>
   *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*
 
 
