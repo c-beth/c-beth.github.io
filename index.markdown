@@ -13,36 +13,36 @@ layout: home
 [Department of Computer Science](https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science)<br>
 Kiel University, Germany
 
-## Bio
+# Bio
 
 I received my integrated M.Sc. degree from the Department of Computer Science, Kiel University, Germany in 2020. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
 
 
 
-## Research Interests
+# Research Interests
 
 Heterogeneous graphs, motif discovery, similarity search, query processing, pattern mining.
 
 
 
-## Publications
+# Publications
 
 For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/8629.html) record or my [Google scholar profile](https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works).
 
 
 
-## Awards
+# Awards
 
 - Outstanding Performance Award 2025, 6th ACM Summer School on Data Science
 - Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
 
 
 
-## Professional Activities
+# Professional Activities
 
 
 
-### Conference Organization
+## Conference Organization
 
 - Local Arrangement Chair of the [32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024)](https://sigspatial2024.sigspatial.org/)
 - Local Arrangement Chair of the [31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023)](https://sigspatial2023.sigspatial.org/)
@@ -50,7 +50,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
-### Teaching
+## Teaching
 
 - Tutorial: Data Science 2021, 2022, 2023, 2024, 2025, Kiel University
 - Master's Seminar: Data Science 2020, 2021, 2025, Kiel University
@@ -64,7 +64,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
-### Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
+## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
 Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members.
 
@@ -95,7 +95,7 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 
 
 
-### Volunteering
+## Volunteering
 
 - Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
 - Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/),
