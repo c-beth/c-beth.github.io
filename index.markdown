@@ -15,7 +15,7 @@ Kiel University, Germany
 
 ## Bio
 
-I received my integrated M.Sc. degree from the Department of Computer Science, Kiel University, Germany. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
+I received my integrated M.Sc. degree from the Department of Computer Science, Kiel University, Germany in 2020. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
 
 
 
@@ -52,11 +52,11 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ### Teaching
 
-- Tutorial: Data Science 2023, 2024, 2025, Kiel University
-- Master's Seminar: Data Science 2020, Kiel University
+- Tutorial: Data Science 2021, 2022, 2023, 2024, 2025, Kiel University
+- Master's Seminar: Data Science 2020, 2021, 2025, Kiel University
 - Master's Project: Data Science and Data Mining 2020, 2021, 2023, Kiel University
-- Tutorial: Knowledge Discovery and Data Mining 2020, Kiel University
-- Tutorial: Efficient Similarity Search in Large Databases 2021, 2023, 2024, Kiel University
+- Tutorial: Knowledge Discovery and Data Mining 2019, 2020, Kiel University
+- Tutorial: Efficient Similarity Search in Large Databases 2020, 2021, 2023, 2024, Kiel University
 - Tutorial: Information Systems 2020, 2021, Kiel University
 - Tutorial: Database Systems 2023, Kiel University
 - Tutorial: Geo-Information Systems 2021, Kiel University
@@ -66,12 +66,12 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ### Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
 
-*Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members.*
+Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members.
 
 - *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
 - *HINdex with Progressive Approximation for Efficient Similarity Search*, Bachelor's thesis 2024
 - *Fine-tuning Large Language Models for Enhanced Information Extraction*, Master's thesis 2024 (Co-supervised with Prof. Dr. Matthias Renz, Yannick Wölker, M.Sc., and Nelson Tavares de Sousa, M.Sc.)
-- *Reverse $k$-Nearest-Neighbor Search in Heterogeneous Information Networks*, Bachelor's thesis 2024
+- *Reverse k-Nearest-Neighbor Search in Heterogeneous Information Networks*, Bachelor's thesis 2024
 - *P-PathSim: Incorporating Spatial Proximity into the PathSim Algorithm*, Master's thesis 2024
 - *Graphlet-based Similarity in Heterogeneous Information Networks*, Master's thesis 2023
 - *Creating Degree-equivalent Heterogeneous Information Networks*, Bachelor's thesis 2023
@@ -84,7 +84,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 - *Analyzing Data Characteristics to detect and Predict Quality Degradation of Machine Learning-based Systems*, Master's thesis 2022
 - *Colored Motif Search in Heterogeneous Information Networks*, Bachelor's thesis 2021
 - *Extending the Expressiveness of Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2021
-- *Application of Language Models to Examine $\beta$-lactam-resistant AMRs*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
+- *Application of Language Models to Examine beta-lactam-resistant AMRs*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
 - *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm M.Sc.)
 - *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
 - *Evaluating Meaningful Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2020
@@ -97,5 +97,6 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ### Volunteering
 
-- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
+- Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
+- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/),
 - [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
