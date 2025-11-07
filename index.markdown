@@ -61,3 +61,41 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 - Tutorial: Database Systems 2023, Kiel University
 - Tutorial: Geo-Information Systems 2021, Kiel University
 - Tutorial: Introduction to Computer Science 2022, Kiel University
+
+
+
+### Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
+
+*Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members.*
+
+- *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
+- *HINdex with Progressive Approximation for Efficient Similarity Search*, Bachelor's thesis 2024
+- *Fine-tuning Large Language Models for Enhanced Information Extraction*, Master's thesis 2024 (Co-supervised with Prof. Dr. Matthias Renz, Yannick Wölker, M.Sc., and Nelson Tavares de Sousa, M.Sc.)
+- *Reverse $k$-Nearest-Neighbor Search in Heterogeneous Information Networks*, Bachelor's thesis 2024
+- *P-PathSim: Incorporating Spatial Proximity into the PathSim Algorithm*, Master's thesis 2024
+- *Graphlet-based Similarity in Heterogeneous Information Networks*, Master's thesis 2023
+- *Creating Degree-equivalent Heterogeneous Information Networks*, Bachelor's thesis 2023
+- *HINdex: Hierarchical Indexing of Heterogeneous Information Networks*, Master's thesis 2023
+- *Machine Learning-based Analysis of the Combined Effect of PPI Intake and Alcohol Consumption on the Microbiome*, Bachelor's thesis 2023 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Christoph Kaleta)
+- *Heterogeneous Information Network Analysis: Synthetic Network Construction*, Master's thesis 2022
+- *Hierarchical Clustering of Product Data in Heterogeneous Information Networks*, Master's thesis 2022
+- *Identifying Usage Patterns in Webpages with Temporal Heterogeneous Motifs*, Master's thesis 2022
+- *Contrastive Learning on Heterogeneous Graphs*, Bachelor's thesis 2022 (Co-supervised with Prof. Dr. Matthias Renz and Yannick Wölker, M.Sc.)
+- *Analyzing Data Characteristics to detect and Predict Quality Degradation of Machine Learning-based Systems*, Master's thesis 2022
+- *Colored Motif Search in Heterogeneous Information Networks*, Bachelor's thesis 2021
+- *Extending the Expressiveness of Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2021
+- *Application of Language Models to Examine $\beta$-lactam-resistant AMRs*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
+- *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm M.Sc.)
+- *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
+- *Evaluating Meaningful Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2020
+- *Probability-based Relevance Search in Uncertain Heterogeneous Information Networks*, Master's thesis 2020
+- *Spatial Semantics Expansion for Computing Relevance on Heterogeneous Information Networks*, Bachelor's thesis 2020
+- *Relevance Measures in Temporal Heterogeneous Information Networks*, Bachelor's thesis 2020
+- *Verortung von Fotodatein aus dem Kieler Stadtarchiv auf der Basis von Textlabels*, Bachelor's thesis 2020
+
+
+
+### Volunteering
+
+- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
+- [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
