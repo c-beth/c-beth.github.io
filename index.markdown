@@ -50,6 +50,17 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
+## Research Stays
+
+- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019
+  *Heterogeneous Information Network Management and Analysis*
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019
+  *Motif Discovery in Heterogeneous Information Networks*
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023
+  *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*
+
+
+
 ## Teaching
 
 - Tutorial: Data Science 2021, 2022, 2023, 2024, 2025, Kiel University
@@ -98,5 +109,5 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 ## Volunteering
 
 - Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
-- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/),
+- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/)
 - [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
