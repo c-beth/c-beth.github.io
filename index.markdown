@@ -117,6 +117,7 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 
 ## Volunteering
 
+- Girls Code @ CAU Kiel [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)
 - Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
 - Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/)
 - [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
