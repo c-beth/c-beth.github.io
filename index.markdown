@@ -15,7 +15,7 @@ Kiel University, Germany
 
 # Bio
 
-I received my integrated M.Sc. degree from the Department of Computer Science, Kiel University, Germany in 2020. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
+I received my M.Sc. degree from the Department of Computer Science, Kiel University, Germany in 2020. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
 
 
 
@@ -68,7 +68,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 - Master's Seminar: Data Science, Kiel University<br>
   2020, 2021, 2025
 - Master's Project: Data Science and Data Mining, Kiel University<br>
-  2020, 2021, 2023
+  2020, 2021, 2023, 2026
 - Tutorial: Knowledge Discovery and Data Mining, Kiel University<br>
   2019, 2020
 - Tutorial: Efficient Similarity Search in Large Databases, Kiel University<br>
@@ -84,9 +84,9 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
-## Thesis Co-Supervision (with Prof. Dr. Matthias Renz)
+## Thesis Co-Supervision
 
-Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members.
+Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members. Unless otherwise specified, these have been co-supervised with Prof. Dr. Matthias Renz.
 
 - *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
 - *HINdex with Progressive Approximation for Efficient Similarity Search*, Bachelor's thesis 2024
