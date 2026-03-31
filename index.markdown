@@ -15,13 +15,18 @@ Kiel University, Germany
 
 # Bio
 
-I received my M.Sc. degree from the Department of Computer Science, Kiel University, Germany in 2020. For my thesis titled *"Overcoming Oversmoothing in Graph Neural Networks with High-Pass Graph Filters"*, I designed and implemented a prototype for graph neural network layer that complements conventional low-pass filtering techniques typically used for graph neural networks, enabling a deeper network architecture. I am currently a PhD candidate in the Department of Computer Science at Kiel University, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs, where nodes and edges are assigned types. There, I design efficient pattern mining algorithms and index structures for pattern-based similarity search.
+My research focuses on the analysis and management of heterogeneous graphs - graphs where nodes and edges are assigned types. Specifically, I design efficient pattern mining algorithms and index structures for pattern-based similarity search in such graphs.
+
+I received my M.Sc. from Kiel University in 2020, where my thesis explored high-pass graph filters as a way to mitigate oversmoothing in deeper graph neural network architectures.
 
 
 
 # Research Interests
 
-Heterogeneous graphs, motif discovery, similarity search, query processing, pattern mining.
+My research centers on scalable algorithms for heterogeneous information networks (HINs), where both nodes and edges carry semantic type information. I work on two complementary problems: structural analysis through efficient typed graphlet counting, and similarity search via meta-path-based measures. Both problems hinge on structural and semantic context, and require highly efficient solutions in order to be scalable.
+
+**Keywords:**
+Heterogeneous Information Networks · Graphlet Counting · Pattern Mining · Meta-path Similarity · Similarity Search · Index Structures · Query Processing · Graph Algorithms
 
 
 
@@ -33,12 +38,12 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 # Awards
 
-- Outstanding Performance Award 2025, 6th ACM Summer School on Data Science
+- Outstanding Performance Award, 2025, 6th ACM Summer School on Data Science
 - Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
 
 
 
-# Professional Activities
+# Academic Activities
 
 
 
@@ -52,12 +57,20 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ## Research Stays
 
-- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
-  *Heterogeneous Information Network Management and Analysis*
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
-  *Motif Discovery in Heterogeneous Information Networks*
 - DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023<br>
   *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
+  *Motif Discovery in Heterogeneous Information Networks*
+- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
+  *Heterogeneous Information Network Management and Analysis*
+
+
+
+## Training
+
+- 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
+- 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025
+
 
 
 
@@ -88,6 +101,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members. Unless otherwise specified, these have been co-supervised with Prof. Dr. Matthias Renz.
 
+- *Gender Bias in Translations: Comparing English to gender-neutral Languages such as Finnish and Turkish*, Bachelor's thesis 2026 (Co-supervised with Dr. Pamela Fleischmann)
 - *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
 - *HINdex with Progressive Approximation for Efficient Similarity Search*, Bachelor's thesis 2024
 - *Fine-tuning Large Language Models for Enhanced Information Extraction*, Master's thesis 2024 (Co-supervised with Prof. Dr. Matthias Renz, Yannick Wölker, M.Sc., and Nelson Tavares de Sousa, M.Sc.)
@@ -105,7 +119,7 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 - *Colored Motif Search in Heterogeneous Information Networks*, Bachelor's thesis 2021
 - *Extending the Expressiveness of Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2021
 - *Application of Language Models to Examine beta-lactam-resistant AMRs*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
-- *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm M.Sc.)
+- *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm, M.Sc.)
 - *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
 - *Evaluating Meaningful Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2020
 - *Probability-based Relevance Search in Uncertain Heterogeneous Information Networks*, Master's thesis 2020
@@ -120,4 +134,5 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 - Girls Code @ CAU Kiel [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)
 - Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
 - Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/)
+- [Landeswettbewerb Jugend forscht Schleswig-Holstein 2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html)
 - [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
