@@ -15,7 +15,7 @@ Kiel University, Germany
 
 # Bio
 
-My research focuses on the analysis and management of heterogeneous graphs - graphs where nodes and edges are assigned types. Specifically, I design efficient pattern mining algorithms and index structures for pattern-based similarity search in such graphs.
+I am a PhD candidate in the Department of Computer Science at Kiel University, Germany, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs - graphs where nodes and edges are assigned types. Specifically, I design efficient pattern mining algorithms and index structures for pattern-based similarity search in such graphs.
 
 I received my M.Sc. from Kiel University in 2020, where my thesis explored high-pass graph filters as a way to mitigate oversmoothing in deeper graph neural network architectures.
 
