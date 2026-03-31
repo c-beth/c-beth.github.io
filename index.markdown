@@ -68,8 +68,8 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 ## Training
 
-- 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
 - 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025
+- 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
 
 
 
