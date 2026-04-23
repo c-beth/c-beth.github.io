@@ -15,9 +15,9 @@ Kiel University, Germany
 
 # Bio
 
-I am a PhD candidate in Computer Science at Kiel University, Germany, where I work with Prof. Dr. Matthias Renz on knowledge discovery from semi-structured data. My work spans three data modalities — textual, spatial, and networked — and is united by a focus on semantics-aware processing: the idea that respecting and exploiting the meaningful structure inherent in data leads to richer, more actionable knowledge. My current research interest centers on heterogeneous information networks (HINs) — graphs in which both nodes and edges carry semantic type information — where I am developing scalable algorithms for similarity search and structural pattern mining. Before this, I completed my M.Sc. at Kiel University in 2020, investigating high-pass graph filters to tackle oversmoothing in deep graph neural networks.<br>
+I am a PhD candidate in Computer Science at Kiel University, Germany, where I work with Prof. Dr. Matthias Renz on knowledge discovery from semi-structured data. My work spans multiple data modalities, e.g., textual, spatial, and networked data, and is united by a focus on semantics-aware processing: the idea that respecting and exploiting the meaningful structure inherent in data leads to richer, more actionable knowledge. My current research interest centers on heterogeneous information networks (HINs) - graphs in which both nodes and edges carry semantic type information - where I am developing scalable algorithms for similarity search and structural pattern mining. Before this, I completed my M.Sc. at Kiel University in 2020, investigating high-pass graph filters to tackle oversmoothing in deep graph neural networks.<br>
 
-<br>
+**Languages:** German · Norwegian · English
 
 **Keywords:** Knowledge Discovery · Semi-structured Data · Pattern Mining · Heterogeneous Information Networks · Spatio-temporal Data ·  Similarity Search · Index Structures
 
@@ -29,9 +29,9 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 - ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, DCFS 2025
 - **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, SIGSPATIAL 2023
-- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (demo paper). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (demo paper, 🏆 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
 - **Crack Detection and Localization based on Spatio-Temporal Data using Residual Networks.** Fathalla Moreh, Hao Lyu, Christian Beth, Steffen Strohm, Zarghaam Haider Rizvi, Frank Wuttke, Matthias Renz, SSDBM 2022
-- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents.** Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
+- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (demo paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
 
 
 
