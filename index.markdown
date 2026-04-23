@@ -115,7 +115,7 @@ I have co-supervised 25+ theses at the Bachelor's and Master's level across topi
 
 # Teaching
 
-Teaching at Kiel University:
+At Kiel University:
 
 - Tutorial: Data Science (2021 - 2025)
 - Master's Seminar: Data Science (2020, 2021, 2025)
