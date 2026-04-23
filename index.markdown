@@ -15,24 +15,23 @@ Kiel University, Germany
 
 # Bio
 
-I am a PhD candidate in the Department of Computer Science at Kiel University, Germany, supervised by Prof. Dr. Matthias Renz. My research focuses on the analysis and management of heterogeneous graphs - graphs where nodes and edges are assigned types. Specifically, I design efficient pattern mining algorithms and index structures for pattern-based similarity search in such graphs.
+I am a PhD candidate in Computer Science at Kiel University, Germany, where I work with Prof. Dr. Matthias Renz on knowledge discovery from semi-structured data. My work spans three data modalities — textual, spatial, and networked — and is united by a focus on semantics-aware processing: the idea that respecting and exploiting the meaningful structure inherent in data leads to richer, more actionable knowledge. My current research interest centers on heterogeneous information networks (HINs) — graphs in which both nodes and edges carry semantic type information — where I am developing scalable algorithms for similarity search and structural pattern mining. Before this, I completed my M.Sc. at Kiel University in 2020, investigating high-pass graph filters to tackle oversmoothing in deep graph neural networks.<br>
 
-I received my M.Sc. from Kiel University in 2020, where my thesis explored high-pass graph filters as a way to mitigate oversmoothing in deeper graph neural network architectures.
+<br>
 
-
-
-# Research Interests
-
-My research centers on scalable algorithms for heterogeneous information networks (HINs), where both nodes and edges carry semantic type information. I work on two complementary problems: structural analysis through efficient typed graphlet counting, and similarity search via meta-path-based measures. Both problems hinge on structural and semantic context, and require highly efficient solutions in order to be scalable.
-
-**Keywords:**
-Heterogeneous Information Networks · Graphlet Counting · Pattern Mining · Meta-path Similarity · Similarity Search · Index Structures · Query Processing · Graph Algorithms
+**Keywords:** Knowledge Discovery · Semi-structured Data · Pattern Mining · Heterogeneous Information Networks · Spatio-temporal Data ·  Similarity Search · Index Structures
 
 
 
-# Publications
+# Selected Publications
 
 For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/8629.html) record or my [Google scholar profile](https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works).
+
+- ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, DCFS 2025
+- **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, SIGSPATIAL 2023
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (demo paper). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
+- **Crack Detection and Localization based on Spatio-Temporal Data using Residual Networks.** Fathalla Moreh, Hao Lyu, Christian Beth, Steffen Strohm, Zarghaam Haider Rizvi, Frank Wuttke, Matthias Renz, SSDBM 2022
+- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents.** Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
 
 
 
@@ -43,11 +42,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
-# Academic Activities
-
-
-
-## Conference Organization
+# Conference Organization
 
 - Local Arrangement Chair of the [32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024)](https://sigspatial2024.sigspatial.org/)
 - Local Arrangement Chair of the [31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023)](https://sigspatial2023.sigspatial.org/)
@@ -55,72 +50,61 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 
 
-## Research Stays
+# Review Experience
 
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023<br>
-  *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
-  *Motif Discovery in Heterogeneous Information Networks*
-- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
-  *Heterogeneous Information Network Management and Analysis*
+I have assisted with the review process for several venues in the database and data mining community, including VLDB (2021, 2023, 2024), SIGMOD (2022, 2023, 2027), ICDM (2020, 2021, 2025), PKDD (2020, 2021), EDBT (2026), TKDE (2021), SDM (2022), and MDM (2026) under the supervision of Prof. Dr. Matthias Renz.
 
 
 
-## Training
+# Academic Visits & Training
 
+- 2-month internship at the University of Ioannina (UoI), Greece, March - April 2026<br>
+  with Prof. Dr. Nikos Mamoulis
 - 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023<br>
+  *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*,<br>
+  with Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
+- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
+  *Motif Discovery in Heterogeneous Information Networks*,<br>
+  with  Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
+- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
+  *Heterogeneous Information Network Management and Analysis*,<br>
+  with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu
 - 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
 
 
 
+# Thesis Co-Supervision
 
-## Teaching
+I have co-supervised 25+ theses at the Bachelor's and Master's level across topics spanning data mining and search & retrieval in networked, textual or spatial data. Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members. Unless otherwise specified, these have been co-supervised with Prof. Dr. Matthias Renz at Kiel University.
 
-- Tutorial: Data Science, Kiel University<br>
-  2021, 2022, 2023, 2024, 2025
-- Master's Seminar: Data Science, Kiel University<br>
-  2020, 2021, 2025
-- Master's Project: Data Science and Data Mining, Kiel University<br>
-  2020, 2021, 2023, 2026
-- Tutorial: Knowledge Discovery and Data Mining, Kiel University<br>
-  2019, 2020
-- Tutorial: Efficient Similarity Search in Large Databases, Kiel University<br>
-  2020, 2021, 2023, 2024
-- Tutorial: Information Systems, Kiel University<br>
-  2020, 2021
-- Tutorial: Database Systems, Kiel University<br>
-  2023
-- Tutorial: Geo-Information Systems, Kiel University<br>
-  2021
-- Tutorial: Introduction to Computer Science, Kiel University<br>
-  2022
-
-
-
-## Thesis Co-Supervision
-
-Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members. Unless otherwise specified, these have been co-supervised with Prof. Dr. Matthias Renz.
-
-- *Gender Bias in Translations: Comparing English to gender-neutral Languages such as Finnish and Turkish*, Bachelor's thesis 2026 (Co-supervised with Dr. Pamela Fleischmann)
+- *Gender Bias in Translations: Comparing English to gender-neutral Languages such as Finnish and Turkish*, Bachelor's thesis 2026
+  (Co-supervised with Dr. Pamela Fleischmann)
 - *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
 - *HINdex with Progressive Approximation for Efficient Similarity Search*, Bachelor's thesis 2024
-- *Fine-tuning Large Language Models for Enhanced Information Extraction*, Master's thesis 2024 (Co-supervised with Prof. Dr. Matthias Renz, Yannick Wölker, M.Sc., and Nelson Tavares de Sousa, M.Sc.)
+- *Fine-tuning Large Language Models for Enhanced Information Extraction*, Master's thesis 2024
+  (Co-supervised with Prof. Dr. Matthias Renz, Yannick Wölker, M.Sc., and Nelson Tavares de Sousa, M.Sc.)
 - *Reverse k-Nearest-Neighbor Search in Heterogeneous Information Networks*, Bachelor's thesis 2024
 - *P-PathSim: Incorporating Spatial Proximity into the PathSim Algorithm*, Master's thesis 2024
 - *Graphlet-based Similarity in Heterogeneous Information Networks*, Master's thesis 2023
 - *Creating Degree-equivalent Heterogeneous Information Networks*, Bachelor's thesis 2023
 - *HINdex: Hierarchical Indexing of Heterogeneous Information Networks*, Master's thesis 2023
-- *Machine Learning-based Analysis of the Combined Effect of PPI Intake and Alcohol Consumption on the Microbiome*, Bachelor's thesis 2023 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Christoph Kaleta)
+- *Machine Learning-based Analysis of the Combined Effect of PPI Intake and Alcohol Consumption on the Microbiome*, Bachelor's thesis 2023
+  (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Christoph Kaleta)
 - *Heterogeneous Information Network Analysis: Synthetic Network Construction*, Master's thesis 2022
 - *Hierarchical Clustering of Product Data in Heterogeneous Information Networks*, Master's thesis 2022
 - *Identifying Usage Patterns in Webpages with Temporal Heterogeneous Motifs*, Master's thesis 2022
-- *Contrastive Learning on Heterogeneous Graphs*, Bachelor's thesis 2022 (Co-supervised with Prof. Dr. Matthias Renz and Yannick Wölker, M.Sc.)
+- *Contrastive Learning on Heterogeneous Graphs*, Bachelor's thesis 2022
+  (Co-supervised with Prof. Dr. Matthias Renz and Yannick Wölker, M.Sc.)
 - *Analyzing Data Characteristics to detect and Predict Quality Degradation of Machine Learning-based Systems*, Master's thesis 2022
 - *Colored Motif Search in Heterogeneous Information Networks*, Bachelor's thesis 2021
 - *Extending the Expressiveness of Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2021
-- *Application of Language Models to Examine beta-lactam-resistant AMRs*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
-- *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm, M.Sc.)
-- *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021 (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
+- *Application of Language Models to Examine beta-lactam-resistant AMRs*, Bachelor's thesis 2021
+  (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
+- *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021
+  (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm, M.Sc.)
+- *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021
+  (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
 - *Evaluating Meaningful Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2020
 - *Probability-based Relevance Search in Uncertain Heterogeneous Information Networks*, Master's thesis 2020
 - *Spatial Semantics Expansion for Computing Relevance on Heterogeneous Information Networks*, Bachelor's thesis 2020
@@ -129,8 +113,25 @@ Note: As part of graduate training in our department, PhD candidates provide pri
 
 
 
-## Volunteering
+# Teaching
 
+Teaching at Kiel University:
+
+- Tutorial: Data Science (2021 - 2025)
+- Master's Seminar: Data Science (2020, 2021, 2025)
+- Master's Project: Data Science and Data Mining (2020, 2021, 2023, 2026)
+- Tutorial: Knowledge Discovery and Data Mining (2019, 2020)
+- Tutorial: Efficient Similarity Search in Large Databases (2020, 2021, 2023, 2024)
+- Tutorial: Information Systems (2020, 2021)
+- Tutorial: Database Systems (2023)
+- Tutorial: Geo-Information Systems (2021)
+- Tutorial: Introduction to Computer Science (2022)
+
+
+
+# Volunteering
+
+- [Girls' Day](https://miriskalt.github.io/girlsday/index.html) at the Department of Computer Science, Kiel University, 2026
 - Girls Code @ CAU Kiel [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)
 - Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
 - Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/)
