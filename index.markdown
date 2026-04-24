@@ -124,7 +124,7 @@ I have co-supervised 25+ theses at the Bachelor's and Master's level across topi
 
 # Teaching
 
-At Kiel University:
+I have completed nearly 100 hours of university didactics training and taught the following courses at Kiel University:
 
 - Tutorial: Data Science (2021 - 2025)
 - Master's Seminar: Data Science (2020, 2021, 2025)
