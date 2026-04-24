@@ -58,16 +58,16 @@ I have assisted with the review process for several venues in the database and d
 
 # Academic Visits & Training
 
-- 2-month internship at the University of Ioannina (UoI), Greece, March - April 2026<br>
+- Visiting researcher for 2-month at the University of Ioannina (UoI), Greece, March - April 2026<br>
   with Prof. Dr. Nikos Mamoulis
 - 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2022, January 2023<br>
+- DAAD PPP (DAAD-funded research exchange), University of Hong Kong (HKU), Hong Kong, October 2022, January 2023<br>
   *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*,<br>
   with Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
-- DAAD PPP (with University of Hong Kong (HKU), Hong Kong), October 2019<br>
+- DAAD PPP (DAAD-funded research exchange), University of Hong Kong (HKU), Hong Kong, October 2019<br>
   *Motif Discovery in Heterogeneous Information Networks*,<br>
   with  Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
-- DAAD PPP (with University of Illinois at Chicago (UIC), Chicago, USA) September 2019<br>
+- DAAD PPP (DAAD-funded research exchange), University of Illinois at Chicago (UIC), Chicago, USA September 2019<br>
   *Heterogeneous Information Network Management and Analysis*,<br>
   with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu
 - 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
