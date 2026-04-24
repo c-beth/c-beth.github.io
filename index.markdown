@@ -5,13 +5,22 @@
 layout: home
 ---
 
+<table style="border: none; border-collapse: collapse;" markdown="1">
+	<tr>
+		<td style="border: none; padding-right: 0px; vertical-align: top;">
+			<img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
+		</td>
+		<td style="border: none; vertical-align: mid;">
+            <strong>Christian Beth, PhD Student</strong><br>
+        	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science">Archaeoinformatics - Data Science Group</a><br>
+        	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science">Department of Computer Science</a><br>
+        	Kiel University, Germany
+		</td>
+	</tr>
+</table>
 
+[Publications](#selected-publications) · [Academic Service](#conference-organization) · [Supervision](#thesis-co-supervision) · [Teaching](#teaching) · [Volunteering](#volunteering)
 
-<img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
-
-**PhD Student**<br>[Archaeoinformatics - Data Science Group](https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science)<br>
-[Department of Computer Science](https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science)<br>
-Kiel University, Germany
 
 # Bio
 
@@ -29,7 +38,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 - ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, DCFS 2025
 - **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, SIGSPATIAL 2023
-- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🏆 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🥈 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
 - **Crack Detection and Localization based on Spatio-Temporal Data using Residual Networks.** Fathalla Moreh, Hao Lyu, Christian Beth, Steffen Strohm, Zarghaam Haider Rizvi, Frank Wuttke, Matthias Renz, SSDBM 2022
 - **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
 
@@ -37,8 +46,8 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 # Awards
 
-- Outstanding Performance Award, 2025, 6th ACM Summer School on Data Science
-- Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
+- 🏆Outstanding Performance Award, 2025, 6th ACM Europe Summer School on Data Science
+- 🥈Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
 
 
 
