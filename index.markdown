@@ -29,9 +29,9 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 - ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, DCFS 2025
 - **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, SIGSPATIAL 2023
-- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (demo paper, 🏆 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🏆 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, SIGSPATIAL 2023
 - **Crack Detection and Localization based on Spatio-Temporal Data using Residual Networks.** Fathalla Moreh, Hao Lyu, Christian Beth, Steffen Strohm, Zarghaam Haider Rizvi, Frank Wuttke, Matthias Renz, SSDBM 2022
-- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (demo paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
+- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
 
 
 
