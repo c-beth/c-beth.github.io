@@ -78,7 +78,7 @@ I have assisted with the review process for several venues in the database and d
 - DAAD PPP (DAAD-funded research exchange), University of Illinois at Chicago (UIC), Chicago, USA September 2019<br>
   *Heterogeneous Information Network Management and Analysis*,<br>
   with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu *(conducted as M.Sc. student)*
-- 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
+- 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019, *(attended as M.Sc. student)*
 
 
 
