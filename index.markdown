@@ -18,8 +18,7 @@ layout: home
 		</td>
 	</tr>
 </table>
-
-[Publications](#selected-publications) · [Academic Service](#conference-organization) · [Supervision](#thesis-co-supervision) · [Teaching](#teaching) · [Volunteering](#volunteering)
+[Publications](#selected-publications) · [Academic Service](#conference-organization) · [Supervision](#thesis-co-supervision) · [Teaching](#teaching) · [Community & Outreach](#community--outreach)
 
 
 # Bio
@@ -126,7 +125,7 @@ I have co-supervised 25+ theses at the Bachelor's and Master's level across topi
 
 I have completed nearly 100 hours of university didactics training and taught the following courses at Kiel University:
 
-- Tutorial: Data Science (2021 - 2025)
+- Tutorial: Data Science (2021 - 2025), including co-development of lecture slides and course curriculum
 - Master's Seminar: Data Science (2020, 2021, 2025)
 - Master's Project: Data Science and Data Mining (2020, 2021, 2023, 2026)
 - Tutorial: Knowledge Discovery and Data Mining (2019, 2020)
@@ -138,11 +137,10 @@ I have completed nearly 100 hours of university didactics training and taught th
 
 
 
-# Volunteering
+# Community & Outreach
 
+- Member, Well-being Group, Department of Computer Science Kiel University, 2024 – present
+- Co-organizer, RISC Dinner (quarterly research networking event), Department of Computer Science, Kiel University, 2024 – present
 - [Girls' Day](https://miriskalt.github.io/girlsday/index.html) at the Department of Computer Science, Kiel University, 2026
-- Girls Code @ CAU Kiel [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)
-- Girls Code @ CAU Kiel [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/)
-- Girls Code @ CAU Kiel [January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/)
-- [Landeswettbewerb Jugend forscht Schleswig-Holstein 2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html)
-- [Landeswettbewerb Jugend forscht Schleswig-Holstein 2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html) 
+- Girls Code @ CAU Kiel ([January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/), [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026))
+- Landeswettbewerb Jugend forscht Schleswig-Holstein ([2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html), [2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html))
