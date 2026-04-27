@@ -68,7 +68,8 @@ I have assisted with the review process for several venues in the database and d
 
 - Visiting researcher for 2-month at the University of Ioannina (UoI), Greece, March - April 2026<br>
   with Prof. Dr. Nikos Mamoulis
-- 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025
+- 6th ACM Europe Summer School on Data Science, Ioannina, Greece, July 2025<br>
+  *(*🏆*Outstanding Performance Award)*
 - DAAD PPP (DAAD-funded research exchange), University of Hong Kong (HKU), Hong Kong, October 2022, January 2023<br>
   *Efficient Algorithms for Discovering Motifs on Labelled and Dynamic Graphs*,<br>
   with Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
