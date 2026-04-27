@@ -74,10 +74,10 @@ I have assisted with the review process for several venues in the database and d
   with Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
 - DAAD PPP (DAAD-funded research exchange), University of Hong Kong (HKU), Hong Kong, October 2019<br>
   *Motif Discovery in Heterogeneous Information Networks*,<br>
-  with  Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng
+  with  Prof. Dr. Matthias Renz and Prof. Dr. Reynold Cheng *(conducted as M.Sc. student)*
 - DAAD PPP (DAAD-funded research exchange), University of Illinois at Chicago (UIC), Chicago, USA September 2019<br>
   *Heterogeneous Information Network Management and Analysis*,<br>
-  with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu
+  with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu *(conducted as M.Sc. student)*
 - 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019
 
 
