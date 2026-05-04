@@ -87,6 +87,7 @@ I have assisted with the review process for several venues in the database and d
 
 I have co-supervised 25+ theses at the Bachelor's and Master's level across topics spanning data mining and search & retrieval in networked, textual or spatial data. Note: As part of graduate training in our department, PhD candidates provide primary research and thesis supervision under the formal supervision of faculty members. Unless otherwise specified, these have been co-supervised with Prof. Dr. Matthias Renz at Kiel University.
 
+- *Generating and Evaluating Random Heterogeneous Networks: Algorithmic Models and Parameter Optimization*, Master's thesis 2026
 - *Gender Bias in Translations: Comparing English to gender-neutral Languages such as Finnish and Turkish*, Bachelor's thesis 2026
   (Co-supervised with Dr. Pamela Fleischmann)
 - *Calculating Typed Subgraph Counts in Heterogeneous Information Networks*, Master's thesis 2025
