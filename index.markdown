@@ -11,14 +11,13 @@ layout: home
 			<img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
 		</td>
 		<td style="border: none; vertical-align: mid;">
-            <strong>Christian Beth, PhD Student</strong><br>
+            <strong>Christian Beth, PhD Candidate</strong><br>
         	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science">Archaeoinformatics - Data Science Group</a><br>
         	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science">Department of Computer Science</a><br>
         	Kiel University, Germany
 		</td>
 	</tr>
 </table>
-[Publications](#selected-publications) · [Academic Service](#conference-organization) · [Supervision](#thesis-co-supervision) · [Teaching](#teaching) · [Community & Outreach](#community--outreach)
 
 
 # Bio
@@ -37,7 +36,7 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 - ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, *DCFS 2025*
 - **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, *SIGSPATIAL 2023*
-- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🥈 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, *SIGSPATIAL 2023*
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🥈Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, *SIGSPATIAL 2023*
 - **Crack Detection and Localization based on Spatio-Temporal Data using Residual Networks.** Fathalla Moreh, Hao Lyu, Christian Beth, Steffen Strohm, Zarghaam Haider Rizvi, Frank Wuttke, Matthias Renz, *SSDBM 2022*
 - **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021*
 
@@ -141,8 +140,9 @@ I have completed nearly 100 hours of university didactics training and taught th
 
 # Community & Outreach
 
-- Member, Well-being Group, Department of Computer Science Kiel University, 2024 – present
+- Active member, Well-being Group, Department of Computer Science, Kiel University, 2024 – present
 - Co-organizer, RISC Dinner (quarterly research networking event), Department of Computer Science, Kiel University, 2024 – present
-- [Girls' Day](https://miriskalt.github.io/girlsday/index.html) at the Department of Computer Science, Kiel University, 2026
-- Girls Code @ CAU Kiel ([January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/), [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026))
-- Landeswettbewerb Jugend forscht Schleswig-Holstein ([2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html), [2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html))
+- Volunteer mentor, [Girls' Day](https://miriskalt.github.io/girlsday/index.html) at the Department of Computer Science, Kiel University, 2026
+- Volunteer mentor, Girls Code @ CAU Kiel ([January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/), [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)).<br>
+  🥈The project was awarded 2nd place at the [Medienkompetenzpreis Schleswig-Holstein 2026](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/II/260427_medienkompetenz)
+- Volunteer organizer, Landeswettbewerb Jugend forscht Schleswig-Holstein ([2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html), [2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html))
