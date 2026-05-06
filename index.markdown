@@ -12,8 +12,8 @@ layout: home
 		</td>
 		<td style="border: none; vertical-align: mid;">
             <strong>Christian Beth, PhD Candidate</strong><br>
-        	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science">Archaeoinformatics - Data Science Group</a><br>
-        	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science">Department of Computer Science</a><br>
+        	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science" target="_blank" rel="noopener noreferrer">Archaeoinformatics - Data Science Group</a><br>
+        	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank" rel="noopener noreferrer">Department of Computer Science</a><br>
         	Kiel University, Germany
 		</td>
 	</tr>
@@ -32,7 +32,7 @@ I am a PhD candidate in Computer Science at Kiel University, Germany, where I wo
 
 # Selected Publications
 
-For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/8629.html) record or my [Google scholar profile](https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works).
+For a full list of publications, check out my <a href="https://dblp.org/pid/299/8629.html" target="_blank" rel="noopener noreferrer">DBLP</a> record or my <a href="https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
 
 - ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, *DCFS 2025*<br>*(journal version invited to special issue of JALC 2026, under review)*
 - **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction.** Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, *SIGSPATIAL 2023*
@@ -51,9 +51,9 @@ For a full list of publications, check out my [DBLP](https://dblp.org/pid/299/86
 
 # Conference Organization
 
-- Local Arrangement Chair of the [32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024)](https://sigspatial2024.sigspatial.org/)
-- Local Arrangement Chair of the [31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023)](https://sigspatial2023.sigspatial.org/)
-- Webmaster of the [30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)](https://sigspatial2022.sigspatial.org/)
+- Local Arrangement Chair of the <a href="https://sigspatial2024.sigspatial.org/" target="_blank" rel="noopener noreferrer">32nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2024)</a>
+- Local Arrangement Chair of the <a href="https://sigspatial2023.sigspatial.org/" target="_blank" rel="noopener noreferrer">31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023)</a>
+- Webmaster of the <a href="https://sigspatial2022.sigspatial.org/" target="_blank" rel="noopener noreferrer">30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)</a>
 
 
 
@@ -112,7 +112,7 @@ I have co-supervised 25+ theses at the Bachelor's and Master's level across topi
   (Co-supervised with Prof. Dr. Matthias Renz and Prof. Dr. Tal Dagan)
 - *Wave-based Damage Detection in Engineering Structures using Artificial Neural Networks*, Bachelor's thesis 2021
   (Co-supervised with Prof. Dr. Matthias Renz and Steffen Strohm, M.Sc.)
-- *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatio-temporal Entities from Scientific Documents*, Master's thesis 2021
+- *Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents*, Master's thesis 2021
   (Co-supervised with Prof. Dr. Matthias Renz and Mohammed Asif Suryani, M.Sc.)
 - *Evaluating Meaningful Meta-Structures in Heterogeneous Information Networks*, Master's thesis 2020
 - *Probability-based Relevance Search in Uncertain Heterogeneous Information Networks*, Master's thesis 2020
@@ -142,7 +142,7 @@ I have completed nearly 100 hours of university didactics training and taught th
 
 - Active member, Well-being Group, Department of Computer Science, Kiel University, 2024 – present
 - Co-organizer, RISC Dinner (quarterly research networking event), Department of Computer Science, Kiel University, 2024 – present
-- Volunteer mentor, [Girls' Day](https://miriskalt.github.io/girlsday/index.html) at the Department of Computer Science, Kiel University, 2026
-- Volunteer mentor, Girls Code @ CAU Kiel ([January 2025](https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/), [September 2025](https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/), [February 2026](https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026)).<br>
-  🥈The project was awarded 2nd place at the [Medienkompetenzpreis Schleswig-Holstein 2026](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/II/260427_medienkompetenz)
-- Volunteer organizer, Landeswettbewerb Jugend forscht Schleswig-Holstein ([2025](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html), [2026](https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html))
+- Volunteer mentor, <a href="https://miriskalt.github.io/girlsday/index.html" target="_blank" rel="noopener noreferrer">Girls' Day</a> at the Department of Computer Science, Kiel University, 2026
+- Volunteer mentor, Girls Code @ CAU Kiel (<a href="https://frauen.inf.uni-kiel.de/index.php/2025/02/28/girls-code-cau-kiel-wer-sagt-maedchen-koennen-nicht-programmieren/" target="_blank" rel="noopener noreferrer">January 2025</a>, <a href="https://frauen.inf.uni-kiel.de/index.php/2024/10/21/girls-who-code-cau-kiel/" target="_blank" rel="noopener noreferrer">September 2025</a>, <a href="https://www.uni-kiel.de/de/tf/detailansicht/news/girls-code-cau-kiel-februar-2026" target="_blank" rel="noopener noreferrer">February 2026</a>).<br>
+  🥈The project was awarded 2nd place at the <a href="https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/II/260427_medienkompetenz" target="_blank" rel="noopener noreferrer">Medienkompetenzpreis Schleswig-Holstein 2026</a>
+- Volunteer organizer, Landeswettbewerb Jugend forscht Schleswig-Holstein (<a href="https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html" target="_blank" rel="noopener noreferrer">2025</a>, <a href="https://www.jugend-forscht.de/wettbewerbe/regional-landeswettbewerbe/wettbewerbstermine/detail/landeswettbewerb-jugend-forscht-schleswig-holstein.html" target="_blank" rel="noopener noreferrer">2026</a>)
