@@ -14,7 +14,8 @@ layout: home
             <strong>Christian Beth, PhD Candidate</strong><br>
         	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science" target="_blank" rel="noopener noreferrer">Archaeoinformatics - Data Science Group</a><br>
         	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank" rel="noopener noreferrer">Department of Computer Science</a><br>
-        	Kiel University, Germany
+        	Kiel University, Germany<br>
+			<a href="#contact">Contact{%- include icon-arrow-down.svg -%}</a>
 		</td>
 	</tr>
 </table>
