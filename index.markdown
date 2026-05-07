@@ -11,12 +11,19 @@ layout: home
 			<img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
 		</td>
 		<td style="border: none; vertical-align: mid;">
-            <strong>Christian Beth, PhD Candidate</strong><br>
-        	<a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science" target="_blank" rel="noopener noreferrer">Archaeoinformatics - Data Science Group</a><br>
-        	<a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank" rel="noopener noreferrer">Department of Computer Science</a><br>
-        	Kiel University, Germany<br>
-			<a href="#contact">Contact{%- include icon-arrow-down.svg -%}</a>
-		</td>
+    <span style="font-size: 1.5em;"><strong>Christian Beth, PhD Candidate</strong></span><br>
+    <a href="https://www.uni-kiel.de/en/tf/research/institute-computer-science/archaeoinformatics-data-science" target="_blank" rel="noopener noreferrer">Archaeoinformatics - Data Science Group</a><br>
+    <a href="https://www.uni-kiel.de/en/tf/faculty/institutes/computer-science" target="_blank" rel="noopener noreferrer">Department of Computer Science</a><br>
+    Kiel University, Germany<br>
+    <br>
+    <div class="profile-links">
+    <a href="mailto:{{ site.email }}">{%- include icon-email.svg -%}</a>
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">{%- include icon-linkedin.svg -%}</a>
+        <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer">{%- include icon-orcid.svg -%}</a>
+            <a href="https://dblp.org/pid/{{ site.dblp }}.html/" target="_blank" rel="noopener noreferrer">{%- include icon-dblp.svg -%}</a>
+    <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">{%- include icon-scholar.svg -%}</a>
+</div>
+</td>
 	</tr>
 </table>
 
@@ -30,7 +37,6 @@ I am a PhD candidate in Computer Science at Kiel University, Germany, where I wo
 **Keywords:** Knowledge Discovery · Semi-structured Data · Pattern Mining · Heterogeneous Information Networks · Spatio-temporal Data ·  Similarity Search · Index Structures
 
 
-
 # Selected Publications
 
 For a full list of publications, check out my <a href="https://dblp.org/pid/299/8629.html" target="_blank" rel="noopener noreferrer">DBLP</a> record or my <a href="https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
@@ -42,12 +48,10 @@ For a full list of publications, check out my <a href="https://dblp.org/pid/299/
 - **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021* <a href="https://doi.org/10.1145/3469830.3470911" class="doi-link" target="_blank" rel="noopener noreferrer">DOI </a>
 
 
-
 # Awards
 
 - 🏆Outstanding Performance Award, 2025, 6th ACM Europe Summer School on Data Science
 - 🥈Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
-
 
 
 # Conference Organization
@@ -57,11 +61,9 @@ For a full list of publications, check out my <a href="https://dblp.org/pid/299/
 - Webmaster of the <a href="https://sigspatial2022.sigspatial.org/" target="_blank" rel="noopener noreferrer">30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)</a>
 
 
-
 # Review Experience
 
 I have assisted with the review process for several venues in the database and data mining community, including VLDB (2021, 2023, 2024), SIGMOD (2022, 2023, 2027), ICDM (2020, 2021, 2025), PKDD (2020, 2021), EDBT (2026), TKDE (2021), SDM (2022), and MDM (2026) under the supervision of Prof. Dr. Matthias Renz.
-
 
 
 # Academic Visits & Training
@@ -80,7 +82,6 @@ I have assisted with the review process for several venues in the database and d
   *Heterogeneous Information Network Management and Analysis*,<br>
   with Prof. Dr. Matthias Renz and Prof. Dr. Philip S. Yu *(conducted as M.Sc. student)*
 - 3rd ACM Europe Summer School on Data Science, Athens, Greece, July 2019, *(attended as M.Sc. student)*
-
 
 
 # Thesis Co-Supervision
@@ -122,7 +123,6 @@ I have co-supervised 25+ theses at the Bachelor's and Master's level across topi
 - *Verortung von Fotodatein aus dem Kieler Stadtarchiv auf der Basis von Textlabels*, Bachelor's thesis 2020
 
 
-
 # Teaching
 
 I have completed nearly 100 hours of university didactics training and taught the following courses at Kiel University:
@@ -136,7 +136,6 @@ I have completed nearly 100 hours of university didactics training and taught th
 - Tutorial: Database Systems (2023)
 - Tutorial: Geo-Information Systems (2021)
 - Tutorial: Introduction to Computer Science (2022)
-
 
 
 # Community & Outreach

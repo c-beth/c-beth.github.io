@@ -22,12 +22,8 @@
             </a>
           </li>
           {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {%- if site.github_username -%}
+		  
+		  {%- if site.github_username -%}
           <li>
             <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">
               {%- include icon-github.svg -%}
@@ -35,17 +31,13 @@
             </a>
           </li>
           {%- endif -%}
+        </ul>
+      </div>
 
-          {%- if site.google_scholar -%}
-          <li>
-            <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">
-              {%- include icon-scholar.svg -%}
-              <span class="username">Google Scholar</span>
-            </a>
-          </li>
-          {%- endif -%}
-
-          {%- if site.orcid -%}
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+		
+		  {%- if site.orcid -%}
           <li>
             <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer">
               {%- include icon-orcid.svg -%}
@@ -62,11 +54,22 @@
             </a>
           </li>
           {%- endif -%}
+		  
+          {%- if site.google_scholar -%}
+          <li>
+            <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">
+              {%- include icon-scholar.svg -%}
+              <span class="username">Google Scholar</span>
+            </a>
+          </li>
+          {%- endif -%}
+
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+		<p style="font-size: 0.85em; color: #828282;">Last updated {{ site.time | date: "%B %Y" }}</p>
       </div>
 
     </div>

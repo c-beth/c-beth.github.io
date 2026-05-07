@@ -4,7 +4,7 @@
 
 @import "minima";
 
-a[target="_blank"]:not(.social-media-list a):not(.site-nav a)::after {
+a[target="_blank"]:not(.social-media-list a):not(.site-nav a):not(.profile-links a)::after {
   content: "";
   display: inline-block;
   width: 0.7em;
@@ -34,4 +34,17 @@ a.doi-link {
 
 .icon-arrow-down {
   vertical-align: middle;
+}
+
+h1, h2 {
+  margin-top: 30px;
+}
+
+.site-nav {
+  float: left;
+}
+
+
+.profile-links a {
+  margin-right: 2px;
 }
