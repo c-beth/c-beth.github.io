@@ -63,7 +63,7 @@ For a full list of publications, check out my <a href="https://dblp.org/pid/299/
 
 # Review Experience
 
-I have assisted with the review process for several venues in the database and data mining community, including VLDB (2021, 2023, 2024), SIGMOD (2022, 2023, 2027), ICDM (2020, 2021, 2025), PKDD (2020, 2021), EDBT (2026), TKDE (2021), SDM (2022), and MDM (2026) under the supervision of Prof. Dr. Matthias Renz.
+I have assisted with the review process for 29 papers across several venues in the database and data mining community, including VLDB (2021, 2023, 2024), SIGMOD (2022, 2023, 2027), ICDM (2020, 2021, 2025), PKDD (2020, 2021), EDBT (2026), TKDE (2021), SDM (2022), and MDM (2026) under the supervision of Prof. Dr. Matthias Renz.
 
 
 # Academic Visits & Training
