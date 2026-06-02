@@ -22,8 +22,9 @@ layout: home
         <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer">{%- include icon-orcid.svg -%}</a>
             <a href="https://dblp.org/pid/{{ site.dblp }}.html/" target="_blank" rel="noopener noreferrer">{%- include icon-dblp.svg -%}</a>
     <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">{%- include icon-scholar.svg -%}</a>
+<a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">{%- include icon-github.svg -%}</a>
+<a href="{{ site.researchgate }}" target="_blank" rel="noopener noreferrer">{%- include icon-researchgate.svg -%}</a>
 
-        <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">{%- include icon-github.svg -%}</a>
 </div>
 </td>
 	</tr>

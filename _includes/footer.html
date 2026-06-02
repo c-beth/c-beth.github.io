@@ -31,6 +31,15 @@
             </a>
           </li>
           {%- endif -%}
+		  
+		  {%- if site.researchgate -%}
+          <li>
+            <a href="{{ site.researchgate }}" target="_blank" rel="noopener noreferrer">
+              {%- include icon-researchgate.svg -%}
+              <span class="username">ResearchGate</span>
+            </a>
+          </li>
+          {%- endif -%}
         </ul>
       </div>
 
