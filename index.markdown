@@ -8,7 +8,7 @@ layout: home
 <table style="border: none; border-collapse: collapse;" markdown="1">
 	<tr>
 		<td style="border: none; padding-right: 0px; vertical-align: top;">
-			<img src="/assets/cbe.jpg" alt="It's me!" style="zoom:40%;" />
+			<img src="/assets/cbe.jpg" alt="Portrait photo of Christian Beth" style="zoom:40%;" />
 		</td>
 		<td style="border: none; vertical-align: mid;">
     <span style="font-size: 1.5em;"><strong>Christian Beth, PhD Candidate</strong></span><br>

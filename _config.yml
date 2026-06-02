@@ -32,6 +32,8 @@ orcid: 0000-0003-3313-0752
 dblp: 299/8629
 researchgate: "https://www.researchgate.net/profile/Christian-Beth"
 
+og_image: /assets/cbe.jpg
+
 # Build settings
 theme: minima
 plugins:
