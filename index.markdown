@@ -25,7 +25,6 @@ layout: home
     <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">{%- include icon-scholar.svg -%}</a>
 <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">{%- include icon-github.svg -%}</a>
 <a href="{{ site.researchgate }}" target="_blank" rel="noopener noreferrer">{%- include icon-researchgate.svg -%}</a>
-
 </div>
 </td>
 	</tr>
@@ -47,16 +46,16 @@ I am a PhD candidate in Computer Science at Kiel University, Germany, where I wo
 For a full list of publications, check out my <a href="https://dblp.org/pid/299/8629.html" target="_blank" rel="noopener noreferrer">DBLP</a> record or my <a href="https://scholar.google.de/citations?hl=de&user=g991gX4AAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
 
 - **CaTSCAN: Calculating Typed Subgraph Counts Analytically for Networks**. Christian Beth, Mattis thor Straten, Felix Rodriguez Rasmussen, Mohammad Matin Najafi, Reynold Cheng, Matthias Renz, *ECML PKDD 2026*  <a href="https://github.com/c-beth/CaTSCAN" class="doi-link" target="_blank" rel="noopener noreferrer">Code</a>  <a href="https://doi.org/10.5281/zenodo.20664518" class="doi-link" target="_blank" rel="noopener noreferrer">Appendix</a><br>*(accepted for publication, in press)*
-- ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, *DCFS 2025* <a href="https://doi.org/10.1007/978-3-031-97100-6_3" class="doi-link" target="_blank" rel="noopener noreferrer">DOI </a> <a href="https://github.com/c-beth/k-local_graphs" class="doi-link" target="_blank" rel="noopener noreferrer">Code</a> <br>*(extended journal version invited to special issue of JALC 2026, under review)*
-- **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction**. Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, *SIGSPATIAL 2023* <a href="https://doi.org/10.1145/3589132.3625631" class="doi-link" target="_blank" rel="noopener noreferrer">DOI</a> <a href="https://github.com/ywoelker/SUSTeR" class="doi-link" target="_blank" rel="noopener noreferrer">Code</a>
-- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🥈Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, *SIGSPATIAL 2023* <a href="https://doi.org/10.1145/3589132.3625568" class="doi-link" target="_blank" rel="noopener noreferrer">DOI</a>
-- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021* <a href="https://doi.org/10.1145/3469830.3470911" class="doi-link" target="_blank" rel="noopener noreferrer">DOI</a>
+- ***k*-Local Graphs**. Christian Beth, Pamela Fleischmann, Annika Huch, Daniyal Kazempour, Peer Kröger, Andrea Kulow, Matthias Renz, *DCFS 2025* <a href="https://doi.org/10.1007/978-3-031-97100-6_3" class="doi-link" target="_blank" rel="noopener noreferrer">Paper</a> <a href="https://github.com/c-beth/k-local_graphs" class="doi-link" target="_blank" rel="noopener noreferrer">Code</a> <a href="talks/k-local_graphs_slides.pdf" class="download-link" download>Slides</a><br>*(extended journal version invited to special issue of JALC 2026, under review)*
+- **SUSTeR: Sparse Unstructured Spatio Temporal Reconstruction on Traffic Prediction**. Yannick Wölker, Christian Beth, Matthias Renz, Arne Biastoch, *SIGSPATIAL 2023* <a href="https://doi.org/10.1145/3589132.3625631" class="doi-link" target="_blank" rel="noopener noreferrer">Paper</a> <a href="https://github.com/ywoelker/SUSTeR" class="doi-link" target="_blank" rel="noopener noreferrer">Code</a>
+- **Integrating Automated Annotation of Magnetic Prospection Data into GIS Workflows in Archaeology** (Demo Paper, 🥈 Best Demo Runner-Up). Steffen Strohm, Finn Witzany, Christian Beth, Matthias Renz, *SIGSPATIAL 2023* <a href="https://doi.org/10.1145/3589132.3625568" class="doi-link" target="_blank" rel="noopener noreferrer">Paper</a> <a href="https://doi.org/10.5281/zenodo.10127464" class="doi-link" target="_blank" rel="noopener noreferrer">Poster</a>
+- **Geo-Quantities: A Framework for Automatic Extraction of Measurements and Spatial Context from Scientific Documents** (Demo Paper). Thorge Petersen, Muhammad Asif Suryani, Christian Beth, Hardik Patel, Klaus Wallmann, and Matthias Renz, *SSTD 2021* <a href="https://doi.org/10.1145/3469830.3470911" class="doi-link" target="_blank" rel="noopener noreferrer">Paper</a>
 
 
 # Awards
 
-- 🏆Outstanding Performance Award, 2025, 6th ACM Europe Summer School on Data Science
-- 🥈Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
+- 🏆 Outstanding Performance Award, 2025, 6th ACM Europe Summer School on Data Science
+- 🥈 Best Demo Runner-Up Award, 2023, ACM SIGSPATIAL 2023
 
 
 # Conference Organization
